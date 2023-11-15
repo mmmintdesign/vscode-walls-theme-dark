@@ -3,7 +3,7 @@
   "displayName": "Walls Theme Dark",
   "description": "Dark theme by mmmintdesign",
   "version": "1.0.0", 
-  "publisher": "mmmintstudio",
+  "publisher": "mmmintsudio",
   "engines": {
     "vscode": "^1.84.0"
   },
