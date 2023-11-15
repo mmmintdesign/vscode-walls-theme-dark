@@ -1,0 +1,40 @@
+{
+  "name": "walls-theme-dark",
+  "displayName": "Walls Theme Dark",
+  "description": "Dark theme by mmmintdesign",
+  "version": "1.0.0", 
+  "publisher": "mmmintdesign",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "orange",
+    "blue",
+    "simple",
+    "dull",
+    "desaturated",
+    "wall",
+    "mintdesign",
+    "mmmintdesign",
+    "mmmint"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Wall Original Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/walls-original-theme-color-theme.json"
+      },
+      {
+        "label": "Wall Fill Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/walls-fill-theme-color-theme.json"
+      }
+    ]
+  }
+}
