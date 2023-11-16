@@ -2,7 +2,7 @@
   "name": "walls-theme-dark",
   "displayName": "Walls Theme Dark",
   "description": "Dark theme by mmmintdesign",
-  "version": "1.0.2", 
+  "version": "1.0.3", 
   "publisher": "mmmint",
   "engines": {
     "vscode": "^1.84.0"
