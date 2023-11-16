@@ -31,12 +31,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Wall Original Theme",
+        "label": "Walls Original Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/walls-original-theme-color-theme.json"
       },
       {
-        "label": "Wall Fill Theme",
+        "label": "Walls Fill Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/walls-fill-theme-color-theme.json"
       }

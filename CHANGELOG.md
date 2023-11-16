@@ -8,3 +8,6 @@ editorWarning, editorGutter & editorInfo, a bit less bright
 
 1.0.3
 tokens updated
+
+1.0.4
+changed Label names from Wall to Walls
