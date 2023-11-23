@@ -11,3 +11,6 @@ tokens updated
 
 1.0.4
 changed Label names from Wall to Walls
+
+1.0.5
+Added 3rd variation 'clean'

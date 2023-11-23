@@ -4,6 +4,10 @@
 
 ![Walls Original](/assets/original.png)
 
+#### Walls Clean
+
+![Walls Fill](/assets/clean.png)
+
 #### Walls Fill
 
 ![Walls Fill](/assets/fill.png)

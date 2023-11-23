@@ -2,7 +2,7 @@
   "name": "walls-theme-dark",
   "displayName": "Walls Theme Dark",
   "description": "Dark theme by mmmintdesign",
-  "version": "1.0.4", 
+  "version": "1.0.5", 
   "publisher": "mmmint",
   "engines": {
     "vscode": "^1.84.0"
@@ -39,6 +39,11 @@
         "label": "Walls Fill Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/walls-fill-theme-color-theme.json"
+      },
+      {
+        "label": "Walls Clean Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/walls-clean-theme-color-theme.json"
       }
     ]
   }
